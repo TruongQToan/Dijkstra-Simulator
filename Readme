@@ -1,0 +1,26 @@
+SPECIFICATION
+This project implements a Monte Carlo simulation that calculates the average shortest path in a graph. The graph can be generated using pseudo-random number generator to produce edges and their costs. 
+
+USAGE
+Run this simulator using the following commands:
+    + make
+    + ./simulator
+
+REQUIREMENTS
+    + linux
+    + g++
+    + c++11
+
+STYLES
+    Google C++ style guide: https://google.github.io/styleguide/cppguide.html
+
+REFERENCE
+    Code structure and implementation is based on this beautiful code. https://algs4.cs.princeton.edu/code/
+
+WHAT I HAVE LEARNED
+By doing this assignment, I have learnt a lot about C++, Dijkstra's algorithm. Specially,
+    - how to implement Dijkstra's algorithm using priority queue
+    - how to program priority queue using template in C++
+    - how to seperate code in C++ between specification and implementations
+    - how to use STL in C++
+    - how to program OOP in C++
